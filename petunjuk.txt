@@ -1,0 +1,14 @@
+Dioprek 
+dengan html, php, javascript
+
+-XAMPP : 7.4.12
+
+- phpMyAdmin SQL Dump
+-- version 5.0.4
+-- https://www.phpmyadmin.net/
+--
+
+-- Host: 127.0.0.1
+-- Waktu pembuatan: 25 Des 2020 pada 13.53
+-- Versi server: 10.4.16-MariaDB
+-- Versi PHP: 7.4.12
